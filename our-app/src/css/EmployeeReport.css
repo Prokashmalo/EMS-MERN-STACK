@@ -1,0 +1,35 @@
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-right: 4.375rem;
+    padding: 3%;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 3.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+
+tbody tr:nth-child(odd){
+    background-color: #ffa5c1;
+    color: #000000;
+  }
+  
+  tbody tr:nth-child(even){
+    background-color:#ffddee;
+    color: #000000;
+  }

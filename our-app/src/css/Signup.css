@@ -1,0 +1,23 @@
+.register{
+    margin-left: 40%;
+
+}
+.head{ 
+    color: blueviolet;
+}
+
+.name,.email,.mobile{
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+    border-color: blueviolet;
+}
+.signup{
+    margin: 20px;
+    padding: 10px;
+    width: 100px;
+    background-color: blueviolet;
+    color: antiquewhite;
+    border: none;
+}
